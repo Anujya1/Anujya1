@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Anujya1
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning insta hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Anujya1/Anujya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Marc
+    family-names: Heuse
+    name-particle: "van Hauser"
+    email: vh@thc.org
+    affiliation: The Hacker's Choice
+title: "hydra"
+version: 9.2
+type: software
+date-released: 2021-03-15
+url: "https://github.com/vanhauser-thc/thc-hydra"
+keywords:
+  - scanning
+  - passwords
+  - hacking
+  - pentesting
+  - securiy
+license: AGPL-3.0-or-later
